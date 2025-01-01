@@ -1,4 +1,9 @@
+# Ensure text files have consistent line endings
 * text=auto
+
+# Explicitly define line endings for certain file types
 *.js text
+*.jsx text
 *.css text
 *.html text
+*.json text
